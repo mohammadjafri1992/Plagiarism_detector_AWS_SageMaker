@@ -1,2 +1,3 @@
-# Plagiarism_detector_AWS_SageMaker
-Plagiarism Detector AWS Sagemaker
+# Plagiarism Detector - AWS SageMaker
+
+This is the source code for a project which detects plagiarism between two sets of texts.
