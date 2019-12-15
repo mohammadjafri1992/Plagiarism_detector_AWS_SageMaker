@@ -1,0 +1,2 @@
+# Plagiarism_detector_AWS_SageMaker
+Plagiarism Detector AWS Sagemaker
