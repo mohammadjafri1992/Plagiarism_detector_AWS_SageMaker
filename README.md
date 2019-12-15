@@ -47,7 +47,8 @@ In simple binary classification problems, it has been my experience in the past 
 You can read more about each code cell execution and its explanation in the [3rd notebook](https://github.com/mohammadjafri1992/Plagiarism_detector_AWS_SageMaker/blob/master/3_Training_a_Model.ipynb).
 
 
-
+### Disclaimer
+It is website is available as an open source with MIT license. To reiterate, the code is provided AS-IS. I am not responsible for any loss/damage caused by the code to your hardware, software or business in any shape or form. This code is provided for educational purpose ONLY and must not be taken as a business proposal. Running this code on AWS will incurr charges.
 
 
 
